@@ -1,7 +1,7 @@
 # Computational-Linguistics-Prep
 Preparation for Computational Linguistics. Notes and exercising for Computer Science, Linguistics and Mathematics.
 
-## Mathematics
+## [Mathematics](./Mathematics)
 
 1. ### Sharon Goldwater Mathematics Resources
    Resource Link: [Sharon Goldwater Math Tutorial Sheets](https://homepages.inf.ed.ac.uk/sgwater/math_tutorials.html)
@@ -12,7 +12,7 @@ Preparation for Computational Linguistics. Notes and exercising for Computer Sci
 7. ### Calculus Khan Academy
    Resource Link: [Khan Academy Calculus 1](https://www.khanacademy.org/math/calculus-1)
 
-## Linguistics
+## [Linguistics](./Linguistics)
 Course recommendations come from [All Things Linguistic](https://allthingslinguistic.com/post/164874346205/how-to-teach-yourself-linguistics-online-for-free)
 
 1. ### Introduction to Linguistics: The Complete Crash Course TrevTutor
@@ -22,17 +22,17 @@ Course recommendations come from [All Things Linguistic](https://allthingslingui
 5. ### Syntax TrevTutor
    Resource Link: [TrevTutor Syntax](https://www.youtube.com/watch?v=OBGA9DZT6Ns&list=PLDDGPdw7e6AgiXk85UJB8YPrerW2TdlkF)
 
-## Computer Science
+## [Computer Science](<./Computer Science>)
 
 I have a computer science background.
 
-## Engineering
+## [Engineering](./Engineering)
 1. ### AC Circuit Analysis Khan Academy
    Resource Link: [Khan Academy AC Circuit Analysis](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic)
 3. ### Primer on Digital Signal Peocessing
    Resource Link: [A Compact Primer on Digital Signal Processing](https://jackschaedler.github.io/circles-sines-signals/index.html)
 
-## Computational Linguistics
+## [Computational Linguistics](<./Computational Linguistics>)
 1. ### Natural Language Processing with Python
    Resource Link: [NLTK Book](https://www.nltk.org/book/)
 3. ### NLP with SpaCy
