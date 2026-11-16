@@ -1,5 +1,5 @@
 # Computational-Linguistics-Prep
-Preparation for MSc in Computational Linguistics. Notes and exercising for Computer Science, Linguistics and Mathematics. I made use of speech zone to get recommendations for the work to do.
+Preparation for Computational Linguistics. Notes and exercising for Computer Science, Linguistics and Mathematics.
 
 ## Mathematics
 
@@ -16,9 +16,13 @@ Preparation for MSc in Computational Linguistics. Notes and exercising for Compu
 
 ## Computer Science
 
-1. ### Natural Language Processing with Python
-2. ### NLP
+I have a computer science background.
 
 ## Engineering
+1. ### AC Circuit Analysis Khan Academy
+2. ### Primer on Digital Signal Peocessing
 
 ## Computational Linguistics
+1. ### Natural Language Processing with Python
+2. ### NLP with SpaCy
+3. ### Sharon Goldwater Intro to Computational Linguistics
