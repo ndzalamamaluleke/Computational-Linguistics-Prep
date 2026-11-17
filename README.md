@@ -1,4 +1,4 @@
-# Computational-Linguistics-Prep
+# Computational Linguistics Preparation
 Preparation for Computational Linguistics. Notes and exercising for Computer Science, Linguistics and Mathematics.
 
 ## [Mathematics](./Mathematics)
